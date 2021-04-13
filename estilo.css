@@ -1,0 +1,101 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: #0174DF url(./img/light-blue-background.jpg)
+}
+
+
+#container {
+    width: 570px;
+    height: 750px;
+    margin: 0 auto;
+    background-color: rgba(300, 300, 300, 0.2);
+    border-radius: 20px;
+    border: 1px solid #00B0FF;
+    margin-top: 120px;
+    text-align: center;
+    
+}
+
+#container img {
+    width: 450px;
+    height: 450px;
+    margin-top: -60px;
+    margin-bottom: 20px;
+    
+    
+}
+
+input {
+    height: 40px;
+    width: 70%;
+    margin-bottom: 10px;
+    background-color: #fff;
+    padding-left: 86px;
+    border-radius: 30px;
+    background-repeat: no-repeat;
+    background-position: 15px;
+    border: 2px solid #00B0FF;
+
+}
+
+input.email {
+    background-image: url(img/icone-usuario.png);
+}
+
+input.senha {
+    background-image: url(img/icone-cadeado.png);
+}
+
+input.submit {
+    padding: 5px 20px;
+    height: 45px;
+    border-radius: 30px;
+    width: 40%;
+    height: 45px;
+    background-color: #00B0FF;
+    border: 2px solid #00B0FF;
+    cursor: pointer;
+    
+
+}
+
+#esqueceu {
+    padding: 20px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+#cadastre {
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: -25px;
+    
+    
+}
+
+a {
+    text-decoration: none;
+
+}
+
+a:hover{
+    color: #00B0FF;
+
+}
+
+#titulo {
+    text-align: center;
+    color: #424242;
+}
+
+#rodape {
+    text-align: center;
+}
+
+
+
+
+
+
+   
