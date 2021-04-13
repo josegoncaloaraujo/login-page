@@ -1,4 +1,4 @@
-# Formulário de login / Login Formulário
+# Formulário de login / Login Form
 
 ## Meu objetivo aqui foi praticar o pouco do que sei(ainda) sobre formulários. O conteúdo foi inspirado em uma página de login.
 
